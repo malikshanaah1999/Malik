@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Malik Shanaah.  It's a great pleasure to share and contribute your ideas and projects with me.
 
-- 👀 Currently, I'm working on a fascinating project I'm doing for my GP in partial fulfillment of requirements for a Bachelor's degree in Telecommunication Engineering.
+- Currently, I'm working on a fascinating project I'm doing for my GP in partial fulfillment of requirements for a Bachelor's degree in Telecommunication Engineering.
   + My insight is represented by constructing a traffic management system. In this system, if there is a crowded lane you are driving in, then automatically YOUR vehicle will 
   track you onto another route. This will get you to your destination in as little time as possible. These processes will be carried out 1000 kilometers away from the crowded 
   region!
